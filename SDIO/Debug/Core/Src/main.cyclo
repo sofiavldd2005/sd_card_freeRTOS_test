@@ -1,0 +1,11 @@
+../Core/Src/main.c:91:13:SDIO_SDCard_Test	6
+../Core/Src/main.c:212:5:main	1
+../Core/Src/main.c:374:6:SystemClock_Config	3
+../Core/Src/main.c:421:13:MX_SDIO_SD_Init	1
+../Core/Src/main.c:449:13:MX_TIM8_Init	4
+../Core/Src/main.c:495:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:528:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:561:13:MX_DMA_Init	1
+../Core/Src/main.c:582:13:MX_GPIO_Init	1
+../Core/Src/main.c:643:6:StartDefaultTask	1
+../Core/Src/main.c:658:6:Error_Handler	1

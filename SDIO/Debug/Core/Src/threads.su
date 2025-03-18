@@ -1,0 +1,2 @@
+../Core/Src/threads.c:7:6:thread1	16	static
+../Core/Src/threads.c:15:6:thread_write_sd_function	4	static
